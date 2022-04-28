@@ -1,0 +1,7 @@
+This section Contains Following Python course Topic
+Generating Random Value (It generate random Value using random
+Function)
+inheritance
+Modules 
+Packages 
+And Finally Rolling a Dice Project which generate random values for Dice 
